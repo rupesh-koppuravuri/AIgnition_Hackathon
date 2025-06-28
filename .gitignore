@@ -1,1 +1,4 @@
 data/raw/*.csv 
+# Ignore processed & raw data
+data/parquet/
+data/raw/
