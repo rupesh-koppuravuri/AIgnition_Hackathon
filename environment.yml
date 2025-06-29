@@ -1,0 +1,9 @@
+dependencies:
+  - python=3.10
+  - pandas
+  - pyarrow
+  - scikit-learn
+  - seaborn
+  - matplotlib
+  - plotly
+  - umap-learn   # optional
