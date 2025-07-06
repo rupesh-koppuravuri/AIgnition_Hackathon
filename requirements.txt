@@ -1,0 +1,32 @@
+#Core ML/Data Stack
+numpy==1.24.3
+pandas==1.5.3
+scikit-learn==1.3.0
+transformers==4.32.0
+sentence-transformers==3.2.0
+langchain==0.1.17
+streamlit==1.33.0
+plotly==5.15.0
+pyarrow==12.0.1
+jupyter==1.0.0
+notebook==6.5.4
+
+#GPU Acceleration
+numba==0.57.1
+faiss-cpu==1.7.4
+#faiss-cpu==1.7.2
+
+
+#Data Engineering
+pyyaml==6.0
+huggingface-hub==0.16.4
+matplotlib==3.7.1
+seaborn==0.12.2
+joblib==1.3.1
+
+#Testing/QA
+tqdm==4.76.0
+great-expectations==0.19.0
+pytest==8.0.2
+kaggle==1.5.15
+#kaggle==0.6.2
