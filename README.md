@@ -144,7 +144,7 @@ AIgnition_Hackathon/
 > - ![image](https://github.com/user-attachments/assets/bf50c155-a3f6-4139-adc5-3f5af492892b)
 
 > - region_deivice_heatmap.png
-> - ![image](https://github.com/user-attachments/assets/2f6ce0a9-97ff-4f22-9c81-5b0e6594e4dd)
+> - ![image](https://github.com/user-attachments/assets/89a0dc1a-3634-48db-b16f-86fbe833d048)
 > - segment_revenue.png
 > - ![image](https://github.com/user-attachments/assets/4b216eb9-ba7a-44b7-a0ed-b0b207b78422)
 > - segment_value_size.png
