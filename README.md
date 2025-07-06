@@ -139,11 +139,18 @@ AIgnition_Hackathon/
 
 ## 🖼️ Visuals, Screenshots & Flowcharts
 
-> **[Insert here]**  
-> - Architecture diagram (recommended: Mermaid/PNG)  
 > - Screenshots of the Streamlit app and dashboard  
-> - Segment distribution heatmap, revenue lift charts  
-> - [region_device_heatmap.png], [segment_revenue.png], [segment_value_size.png] (see `notebooks/`)
+> - ![newplot](https://github.com/user-attachments/assets/4713f057-988a-45f6-a0f2-4056731b5549)
+> - ![image](https://github.com/user-attachments/assets/bf50c155-a3f6-4139-adc5-3f5af492892b)
+
+> - region_deivice_heatmap.png
+> - ![image](https://github.com/user-attachments/assets/2f6ce0a9-97ff-4f22-9c81-5b0e6594e4dd)
+> - segment_revenue.png
+> - ![image](https://github.com/user-attachments/assets/4b216eb9-ba7a-44b7-a0ed-b0b207b78422)
+> - segment_value_size.png
+> - ![image](https://github.com/user-attachments/assets/f95984a9-8ccc-4d1b-8cb7-456507e833e9)
+
+
 
 ## 📝 Troubleshooting
 
